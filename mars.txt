@@ -3,3 +3,4 @@ Mars is red.
 More details about the planet.
 Mars is indeed red.
 
+Let us try git fetch.

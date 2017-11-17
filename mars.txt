@@ -1,5 +1,5 @@
 This file contains information about mars.^
-Mars is red.
+Mars is green.
 More details about the planet.
 Mars is indeed red.
 
